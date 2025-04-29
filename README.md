@@ -29,6 +29,104 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+<!DOCTYPE html>
+ <html>
+ <head>     
+    <title>BOOK</title>
+    <style>
+        .bookpage{
+            width: 400px;
+            height: 600px;
+            color:black;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            font-family: ' Arial, sans-serif';
+            background-image: url("love.jpeg");
+            background-size: cover;
+        }
+       
+        .author{
+        
+            display: inline;
+            position: relative;
+            color:rgb(255, 255, 255);
+            top:190px;
+            
+            font-family:Georgia;
+            font-size: medium;
+        }
+        .booktitle{
+            color:azure;
+            font-family: Roquen;
+            font-size: larger;
+            text-align: center;
+            position: relative;
+            top: 30px;
+        
+        }
+ 
+        .id {
+            width:400px;
+            position: relative;
+            top:180px;
+            
+        }
+        
+        .ed{
+            color:azure;
+            font-size: medium;
+            font-family: Verdana;
+            position:relative;
+            top:85px;
+        
+        }
+        
+        .mypic{
+            position: relative;
+            top: 135px;
+            left: 260px;
+            width: 90px;
+            height: 80px;
+            background-size:contain;
+        }
+        </style>
+        <title>Book Cover Page</title>
+        </head>
+        <body>
+        <div class="bookpage">
+            <div class="booktitle">
+                <h1> <FONT color="red">THE SOUL OF HEART</h1></div></FONT>
+                <br>
+            <div class="subtitle">
+                <center><font color="black"> BLEEDING OF UNWRIITEN STORY</center></font>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        
+            <div class="mypic">
+                <img src="ruskeyybond.jpg" width="120" height="100" >
+            </div>
+            <div class="id">
+                <hr style="color:blanchedalmond">
+            </div>
+            <div class="author">
+               <p><b>DEEPIKA R</b></p>
+            </div>
+            <div class="ed">
+                <font color="red">BEHIND THE TRUTH </font>
+            </div>
+        </div>
+        </body>
+        
+</html>
 # OUTPUT:
+![alt text](<BOOK COVER.png>)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
