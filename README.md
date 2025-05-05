@@ -127,7 +127,7 @@ Publish the website in the LocalHost.
         
 </html>
 # OUTPUT:
-![Screenshot 2025-04-29 141856](https://github.com/user-attachments/assets/d9d744dc-81bd-4509-b085-26a2b6d9eaf1)
+![BOOK COVER](https://github.com/user-attachments/assets/2d0f2739-3dd7-4739-8b4d-9efa9853dd9b)
 
 
 # RESULT:
