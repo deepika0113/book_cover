@@ -29,6 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+```
 <!DOCTYPE html>
  <html>
  <head>     
@@ -126,6 +127,7 @@ Publish the website in the LocalHost.
         </body>
         
 </html>
+```
 # OUTPUT:
 ![BOOK COVER](https://github.com/user-attachments/assets/2d0f2739-3dd7-4739-8b4d-9efa9853dd9b)
 
